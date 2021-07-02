@@ -39,10 +39,10 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/wxhwxh0929/vue-cli-plugin-upgrade.git"
   },
   "publishConfig": {
     "registry": ""
   },
-  "license": "ISC"
+  "license": "MIT"
 }
